@@ -1,0 +1,55 @@
+[
+    {
+        "player_name": "Molly",
+        "player_team": "MCLLC",
+        "player_number": "13",
+        "player_position": "Center",
+        "stats": [
+            {
+                "statName": "totalGoals",
+                "statDisplayName": "Total Goals",
+                "statValue": 2,
+                "datatype": "INTEGER"
+            },
+            {
+                "statName": "totalAssists",
+                "statDisplayName": "Total Assists",
+                "statValue": 2,
+                "datatype": "INTEGER"
+            }
+        ]
+    },
+    {
+        "player_name": "Roo",
+        "player_team": "Chick Mountain",
+        "player_number": "07",
+        "player_position": "Goalkeeper",
+        "stats": [
+            {
+                "statName": "totalGoals",
+                "statDisplayName": "Total Goals",
+                "statValue": 4,
+                "datatype": "INTEGER"
+            },
+            {
+                "statName": "totalAssists",
+                "statDisplayName": "Total Assists",
+                "statValue": 7,
+                "datatype": "INTEGER"
+            }
+        ]
+    },
+    {
+        "player_name": "Luna",
+        "player_team": "Chick Mountain",
+        "player_number": "21",
+        "player_position": "Left Wing",
+        "stats": null
+    },
+    {
+        "player_name": "Joel",
+        "player_team": "Sharks",
+        "player_number": "3",
+        "player_position": "Right Wing"
+    }
+]
